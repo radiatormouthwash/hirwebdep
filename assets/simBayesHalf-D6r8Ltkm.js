@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/main-CKtJjJ60.js","assets/form_types-Du_3JqLH.js","assets/app_bootstrap-CNJ2j8Cj.js","assets/app_bootstrap-BTOUBSxe.css"])))=>i.map(i=>d[i]);
+import{b as o,_}from"./app_bootstrap-CNJ2j8Cj.js";o(()=>_(()=>import("./index-B3bFdaCV.js"),[]),()=>_(()=>import("./main-CKtJjJ60.js"),__vite__mapDeps([0,1,2,3])));
