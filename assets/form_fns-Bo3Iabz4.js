@@ -1,0 +1,1 @@
+const o={"form:pYAS":{valueRange:{lo:0,hi:1,loClosed:!0,hiClosed:!0},params:["pCapable","pRuns","simFracIfRun"],point(e){return e[0]*e[1]*e[2]},bounds(e){return{lo:e[0][0]*e[1][0]*e[2][0],hi:e[0][1]*e[1][1]*e[2][1]}},boundsTightness:"tight"}};export{o as FORM_REGISTRY};
