@@ -1,0 +1,1 @@
+import"./preload-helper-BEszT2I-.js";import{o as n,l as e,a as i}from"./latent_factor_introduction-w4sp4lYv.js";import"./form_types-CrQp446c.js";n(null,{closable:!1,initialSpecs:i(window.location.search),onSpecsApplied:o=>{const{pathname:t,hash:a}=window.location;window.history.replaceState(window.history.state,"",`${t}${e(o)}${a}`)}});
